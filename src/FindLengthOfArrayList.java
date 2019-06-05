@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * Created by Thomas Tibebu,
- * Date May 20, 2019
+ * Date May 26, 2019
  **/
 public class FindLengthOfArrayList {
     public static void main(String[] args) {
